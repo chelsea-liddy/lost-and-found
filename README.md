@@ -43,7 +43,7 @@ npm run dev # to start the dev server
 
 You can find the server running on [http://localhost:2000](http://localhost:2000).
 
-Note: The location test will fail without valid Google API key. Please request the key if you need.
+Note: The location test will fail without valid Google API key. 
 ---
 [Provide feedback on this repo](https://docs.google.com/forms/d/e/1FAIpQLSfw4FGdWkLwMLlUaNQ8FtP2CTJdGDUv6Xoxrh19zIrJSkvT4Q/viewform?usp=pp_url&entry.1958421517=boilerplate-fullstack)
 
